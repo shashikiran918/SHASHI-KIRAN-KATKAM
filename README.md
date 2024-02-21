@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter Development<br>🌱 I’m currently learning Flutter Desktop & Animation<br>💬 Ask me about Flutter, Firebase, Tech update and more<br>)
+🔭 I’m currently working on Flutter Development<br>🌱 I’m currently learning Flutter Desktop & Animation<br>💬 Ask me about Flutter, Firebase, Tech update and more<br>
 
 
 # 💻 Tech Stack:
